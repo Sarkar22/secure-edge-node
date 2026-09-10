@@ -1,0 +1,2 @@
+part,period_ns,lut,ff,dsp,dsp_mvm,dsp_act,dsp_enc,bram,srl,wns_ns,fmax_mhz,power_w
+xck26-sfvc784-2LV-c,2.0,2346,2785,1,1,0,0,0,11,-3.830,171.5,0.451
