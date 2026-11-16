@@ -2,8 +2,7 @@
 
 A small MLP classifies a feature and its telemetry record is CTR-encrypted before transmission. Because the CTR keystream depends only on a counter, it is precomputed **during** the inference, so encryption costs no added latency. Activation and cipher are DSP-free, so the whole node uses exactly **one** DSP slice.
 
-This is the artifact for a paper submitted to **IEEE CCECE 2027** (under review). Every
-number below is reproduced by the scripts in this repository.
+Every number below is reproduced by the scripts in this repository.
 
 ## Results
 
